@@ -1,11 +1,8 @@
-- 👋 Hi, I’m @catneep AKA Humberto Avila
-- 👀 I’m interested in music, audio production, philosophy and computers
-- 🌱 I’m currently learning blazor, react and german
+- 👋 Hi! I'm <em>@catneep</em> AKA Humberto Avila
+- 🧑🏻 I'm a 22-year-old mexican software engineer
+- 🌎 I'm fluent in Spanish (duh!) and English, I can also speak some French
+- ❤️ I love music/audio production, philosophy and technology
+- 🌱 I'm currently learning Blazor, React, some more Python and German
 - 📫 How to reach me: contact@havila.dev
 
-(I did use the template that github gave pls don't judge me)
-
-<!---
-catneep/catneep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I did use the default template for this, pls don't judge me :c
